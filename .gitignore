@@ -1,3 +1,8 @@
+*.pdf
+.envrc
+.venv/
+TODO
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
